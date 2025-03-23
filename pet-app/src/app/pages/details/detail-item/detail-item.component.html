@@ -1,10 +1,13 @@
+
 <div class="card" style="width: 18rem;">
+
     <img src="http://localhost:8090/{{animal.image}}" 
     class="card-img-top" 
     alt="{{animal.breedName}}">
     
     <div class="card-body">
-        <h5 class="card-title">{{animal.breedName}}</h5>
+
+        <h5 class="card-title">{{animal.breedName | uppercase}}</h5> <!-- //inbuild pipe -->
         <p class="card-text">
             <strong>Age:</strong> {{animal.age}} years <br>
             <strong>Color:</strong> {{animal.color}} <br>

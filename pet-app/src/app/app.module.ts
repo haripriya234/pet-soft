@@ -14,6 +14,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { LoginComponent } from './common/login/login.component';
 import { AdminComponent } from './pages/admin/admin.component';
 import { ContactResponseComponent } from './pages/admin/contact-response/contact-response.component';
+import { FilterservicePipe } from './pipes/filterservice.pipe';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { ContactResponseComponent } from './pages/admin/contact-response/contact
     DetailItemComponent,
     LoginComponent,
     AdminComponent,
-    ContactResponseComponent
+    ContactResponseComponent,
+    FilterservicePipe
     
   ],
   imports: [

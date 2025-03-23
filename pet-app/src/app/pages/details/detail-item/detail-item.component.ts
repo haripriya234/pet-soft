@@ -19,4 +19,5 @@ export class DetailItemComponent {
     adoptionStatus: '',
     image: ''
   };
+  selectedGender:string='All';
 }

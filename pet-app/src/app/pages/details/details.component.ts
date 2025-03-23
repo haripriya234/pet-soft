@@ -8,7 +8,8 @@ import { Detail } from '../../model/detail';
   styleUrl: './details.component.css'
 })
 export class DetailsComponent {
-  animalList: Detail[] = []; // Change from Contact[] to Animal[]
+  animalList: Detail[] = []; 
+  selectedGender: string = '';
 
   constructor(private apiService: ApiService) { }
   
