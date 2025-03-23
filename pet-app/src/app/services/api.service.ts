@@ -12,4 +12,9 @@ export class ApiService {
   getAnimals():Observable<any>{
     return this.http.get('http://localhost:4500/animals');
   }
+  addEnquiry(data: any): Observable<any> {
+    return this.http.post('http://localhost:4500/contacts', data);
+  }
+  
+
 }

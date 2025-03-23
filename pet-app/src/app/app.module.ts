@@ -12,6 +12,7 @@ import { DetailItemComponent } from './pages/details/detail-item/detail-item.com
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { LoginComponent } from './common/login/login.component';
+import { AdminComponent } from './pages/admin/admin.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { LoginComponent } from './common/login/login.component';
     DetailsComponent,
     ContactComponent,
     DetailItemComponent,
-    LoginComponent
+    LoginComponent,
+    AdminComponent
     
   ],
   imports: [

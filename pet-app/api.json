@@ -1,125 +1,133 @@
 {
-    "animals":[
-        {
-          "id": 1,
-          "breedName": "Golden Retriever",
-          "age": 2,
-          "color": "Golden",
-          "healthCondition": "Healthy",
-          "dob": "2023-03-15",
-          "gender": "Male",
-          "weight": "25 kg",
-          "adoptionStatus": "Available",
-          "image": "ani1.jpeg"
-        },
-        {
-          "id": 2,
-          "breedName": "Persian Cat",
-          "age": 3,
-          "color": "White",
-          "healthCondition": "Vaccinated",
-          "dob": "2022-06-10",
-          "gender": "Female",
-          "weight": "6 kg",
-          "adoptionStatus": "Adopted",
-          "image": "ani2.jpeg"
-        },
-        {
-          "id": 3,
-          "breedName": "German Shepherd",
-          "age": 4,
-          "color": "Black and Tan",
-          "healthCondition": "Needs Special Diet",
-          "dob": "2021-09-05",
-          "gender": "Male",
-          "weight": "30 kg",
-          "adoptionStatus": "Available",
-          "image": "ani3.jpeg"
-        },
-        {
-          "id": 4,
-          "breedName": "Siberian Husky",
-          "age": 2,
-          "color": "Grey and White",
-          "healthCondition": "Healthy",
-          "dob": "2023-01-20",
-          "gender": "Female",
-          "weight": "20 kg",
-          "adoptionStatus": "Available",
-          "image": "ani4.jpg"
-        },
-        {
-          "id": 5,
-          "breedName": "British Shorthair",
-          "age": 5,
-          "color": "Blue-Gray",
-          "healthCondition": "Healthy",
-          "dob": "2020-07-30",
-          "gender": "Male",
-          "weight": "7 kg",
-          "adoptionStatus": "Available",
-          "image": "ani5.jpeg"
-        },
-        {
-          "id": 6,
-          "breedName": "Labrador Retriever",
-          "age": 3,
-          "color": "Chocolate",
-          "healthCondition": "Healthy",
-          "dob": "2022-05-12",
-          "gender": "Female",
-          "weight": "28 kg",
-          "adoptionStatus": "Adopted",
-          "image": "ani6.jpeg"
-        },
-        {
-          "id": 7,
-          "breedName": "Bengal Cat",
-          "age": 4,
-          "color": "Brown Spotted",
-          "healthCondition": "Healthy",
-          "dob": "2021-03-10",
-          "gender": "Male",
-          "weight": "8 kg",
-          "adoptionStatus": "Available",
-          "image": "ani7.jpeg"
-        },
-        {
-          "id": 8,
-          "breedName": "Doberman",
-          "age": 3,
-          "color": "Black and Rust",
-          "healthCondition": "Requires Training",
-          "dob": "2022-02-15",
-          "gender": "Male",
-          "weight": "32 kg",
-          "adoptionStatus": "Available",
-          "image": "ani8.jpg"
-        },
-        {
-          "id": 9,
-          "breedName": "Ragdoll Cat",
-          "age": 2,
-          "color": "Cream and Brown",
-          "healthCondition": "Healthy",
-          "dob": "2023-06-18",
-          "gender": "Female",
-          "weight": "5 kg",
-          "adoptionStatus": "Available",
-          "image": "ani9.jpg"
-        },
-        {
-          "id": 10,
-          "breedName": "Shiba Inu",
-          "age": 3,
-          "color": "Red",
-          "healthCondition": "Healthy",
-          "dob": "2022-08-22",
-          "gender": "Male",
-          "weight": "10 kg",
-          "adoptionStatus": "Adopted",
-          "image": "ani10.jpeg"
-        }
-      ]
-      
+  "animals": [
+    {
+      "id": 1,
+      "breedName": "Golden Retriever",
+      "age": 2,
+      "color": "Golden",
+      "healthCondition": "Healthy",
+      "dob": "2023-03-15",
+      "gender": "Male",
+      "weight": "25 kg",
+      "adoptionStatus": "Available",
+      "image": "ani1.jpeg"
+    },
+    {
+      "id": 2,
+      "breedName": "Persian Cat",
+      "age": 3,
+      "color": "White",
+      "healthCondition": "Vaccinated",
+      "dob": "2022-06-10",
+      "gender": "Female",
+      "weight": "6 kg",
+      "adoptionStatus": "Adopted",
+      "image": "ani2.jpeg"
+    },
+    {
+      "id": 3,
+      "breedName": "German Shepherd",
+      "age": 4,
+      "color": "Black and Tan",
+      "healthCondition": "Needs Special Diet",
+      "dob": "2021-09-05",
+      "gender": "Male",
+      "weight": "30 kg",
+      "adoptionStatus": "Available",
+      "image": "ani3.jpeg"
+    },
+    {
+      "id": 4,
+      "breedName": "Siberian Husky",
+      "age": 2,
+      "color": "Grey and White",
+      "healthCondition": "Healthy",
+      "dob": "2023-01-20",
+      "gender": "Female",
+      "weight": "20 kg",
+      "adoptionStatus": "Available",
+      "image": "ani4.jpg"
+    },
+    {
+      "id": 5,
+      "breedName": "British Shorthair",
+      "age": 5,
+      "color": "Blue-Gray",
+      "healthCondition": "Healthy",
+      "dob": "2020-07-30",
+      "gender": "Male",
+      "weight": "7 kg",
+      "adoptionStatus": "Available",
+      "image": "ani5.jpeg"
+    },
+    {
+      "id": 6,
+      "breedName": "Labrador Retriever",
+      "age": 3,
+      "color": "Chocolate",
+      "healthCondition": "Healthy",
+      "dob": "2022-05-12",
+      "gender": "Female",
+      "weight": "28 kg",
+      "adoptionStatus": "Adopted",
+      "image": "ani6.jpeg"
+    },
+    {
+      "id": 7,
+      "breedName": "Bengal Cat",
+      "age": 4,
+      "color": "Brown Spotted",
+      "healthCondition": "Healthy",
+      "dob": "2021-03-10",
+      "gender": "Male",
+      "weight": "8 kg",
+      "adoptionStatus": "Available",
+      "image": "ani7.jpeg"
+    },
+    {
+      "id": 8,
+      "breedName": "Doberman",
+      "age": 3,
+      "color": "Black and Rust",
+      "healthCondition": "Requires Training",
+      "dob": "2022-02-15",
+      "gender": "Male",
+      "weight": "32 kg",
+      "adoptionStatus": "Available",
+      "image": "ani8.jpg"
+    },
+    {
+      "id": 9,
+      "breedName": "Ragdoll Cat",
+      "age": 2,
+      "color": "Cream and Brown",
+      "healthCondition": "Healthy",
+      "dob": "2023-06-18",
+      "gender": "Female",
+      "weight": "5 kg",
+      "adoptionStatus": "Available",
+      "image": "ani9.jpg"
+    },
+    {
+      "id": 10,
+      "breedName": "Shiba Inu",
+      "age": 3,
+      "color": "Red",
+      "healthCondition": "Healthy",
+      "dob": "2022-08-22",
+      "gender": "Male",
+      "weight": "10 kg",
+      "adoptionStatus": "Adopted",
+      "image": "ani10.jpeg"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "cde4",
+      "name": "sadkansd",
+      "email": "sadkasdk@gmail.com",
+      "phone": "9839479847",
+      "reason": "djfhjsncsidurncgdjsnciusenfcdsjfahdjdsh ckshd"
+    }
+  ]
 }
